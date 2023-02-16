@@ -1,11 +1,5 @@
 # The Effects of Randomness on the Stability of Node Embeddings
 
-This repository provides the code used in the experiments of our paper
-
-*The Effects of Randomness on the Stability of Node Embeddings*  
-*Tobias Schumacher, Hinrikus Wolf, Martin Ritzert, Florian Lemmerich, Jan Bachmann, Florian Frantzen, Max Klabunde, Martin Grohe, and Markus Strohmaier*
-
-
 
 Below we provide an overview of all our experiments and how they can be executed.
 
